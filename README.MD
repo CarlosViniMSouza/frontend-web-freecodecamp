@@ -9,7 +9,7 @@ Learn JavaScript, HTML, and CSS in this Frontend Web Development course. In this
 ```
 ⌨️ (00:00:00) Introduction ✅
 ⌨️ (00:04:45) Your first JavaScript program ✅
-⌨️ (00:28:14) What is JavaScript? 
+⌨️ (00:28:14) What is JavaScript? ✅
 ⌨️ (00:56:04) JavaScript variables
 ⌨️ (01:45:28) Basic JavaScript challenges
 ⌨️ (01:45:54) JavaScript operators
