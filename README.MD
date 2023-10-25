@@ -1,8 +1,8 @@
 Learn JavaScript, HTML, and CSS in this Frontend Web Development course. In this massive course, you will go from no coding experience to having the essential skills of a frontend web developer. You will learn various web development technologies and create a few projects along the way. 
 
-✏️ Course from Zach Gollwitzer. Check out his channel:   
+✏️ Course from Zach Gollwitzer. Check out his channel:
 
-[/ zachgollwitzer](https://www.youtube.com/c/ZachGollwitzer)  
+[/zachgollwitzer](https://www.youtube.com/c/ZachGollwitzer)  
 
 💻 Code and Resources: https://github.com/zachgoll/fullstack-roadmap-series/tree/main
 
@@ -10,8 +10,8 @@ Learn JavaScript, HTML, and CSS in this Frontend Web Development course. In this
 ⌨️ (00:00:00) Introduction ✅
 ⌨️ (00:04:45) Your first JavaScript program ✅
 ⌨️ (00:28:14) What is JavaScript? ✅
-⌨️ (00:56:04) JavaScript variables
-⌨️ (01:45:28) Basic JavaScript challenges
+⌨️ (00:56:04) JavaScript variables ✅
+⌨️ (01:45:28) Basic JavaScript challenges ✅
 ⌨️ (01:45:54) JavaScript operators
 ⌨️ (02:39:10) 5 more JavaScript challenges
 ⌨️ (02:50:09) JavaScript functions, conditionals, loops

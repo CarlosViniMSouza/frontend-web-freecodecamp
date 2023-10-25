@@ -3,4 +3,4 @@ git commit -m "stopped: JS Variables"
 git push origin main
 git status
 
-# moment: 56:10
+# continue in https://youtu.be/zJSY8tbf_ys?si=lncKXK-Pg-4gZJPG&t=6362
